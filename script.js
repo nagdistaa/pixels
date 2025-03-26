@@ -1,7 +1,7 @@
 
 const container = document.querySelector(".container");
 
-let containerSize = window.innerWidth 
+let containerSize = window.innerWidth*2
 let pixelSize = 30;
 
 let rowsNumber = containerSize / pixelSize
