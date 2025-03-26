@@ -14,12 +14,12 @@ body {
     width: 100vw;
     height: 90vh; 
     position: relative;
-    overflow: hidden;
+    overflow-x: hidden;
 }
 
 .pixel {
-    width: 20px;
-    height: 20px;
+    width: 30px;
+    height: 30px;
     position: absolute;
     top: 0;
     left: 0;
