@@ -11,10 +11,9 @@ body {
 }
 
 .container {
-    width: 100vw;
-    height: 90vh; 
+    height: 100%; 
     position: relative;
-    overflow-x: hidden;
+    overflow: hidden;
 }
 
 .pixel {
